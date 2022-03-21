@@ -32,8 +32,9 @@
 - Home automation ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
   - Virtual Private Network
   - Homebridge
-  - HomeKit
   - Pi-hole
+  - Virtual HomeKit
+  - Virtual Time Machine
 
 <!--
 ### 🌐Socials
