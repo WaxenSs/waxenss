@@ -28,6 +28,8 @@
   - Diehard survival.
   - Latest version available.
   - Slightly improves vanilla.
+- [Shortcuts Apple](https://apps.apple.com/fr/app/raccourcis/id1462947752)
+  - [Partage Wi-Fi](https://www.icloud.com/shortcuts/8729f8aafc9d4d3ea6cadd4694a56170) : Share your Wi-Fi simply with a QR-code. One configuration, and enjoy !
 
 - Home automation ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
   - Virtual Private Network
