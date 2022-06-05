@@ -13,7 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Maxence&fontAlignY=35&fontSize=70&desc=Someone%20developing%20weird%20things%20for%20fun&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%" />  
   
 
-### <div align="center">Hey there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <div align="center">Hey there !
 Here you will find (most of my projects are private) my projects. I learn from myself, and I try to touch everything that interests me !</div>
 
 
