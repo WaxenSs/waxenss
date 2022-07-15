@@ -41,7 +41,6 @@ Here you will find (most of my projects are private) my projects. I learn from m
   - Virtual Private Network
   - Homebridge
   - Pi-hole
-  - Virtual HomeKit
   - Virtual Time Machine
 
 ## 🚀 Github Stats
