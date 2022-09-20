@@ -3,50 +3,73 @@
 *** If you have a suggestion that would make this better, please fork the repo and create a pull request
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
-
-*** Coucou 👀
-*** Si vous avez une suggestion pour améliorer ce README.md, veuillez bifurquer le repo et créer une pull request.
-*** N'oubliez pas de donner une étoile au projet si vous utilisez, ou l'aimer!
-*** Merci encore ! Maintenant, allez créer quelque chose d'incroyable ! :D
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Maxence&fontAlignY=35&fontSize=70&desc=Someone%20developing%20weird%20things%20for%20fun&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%" />  
-  
+### Hi there 👋
 
-### <div align="center">Hey there !
-Here you will find (most of my projects are private) my projects. I learn from myself, and I try to touch everything that interests me !</div>
+I use my free time to learn to develop all kinds of things.
 
+## About my contributions
 
-<br/>
-<div align="center">
-<img alt="Discord" src="https://img.shields.io/discord/476022087224655872?color=000000&label=L%20U%20N%20%CE%9B%20T%20I%20C&logo=Discord&logoColor=FFFFFF&style=for-the-badge">
-<img alt="Discord" src="https://img.shields.io/badge/My%20Discord-WaxenSs--3226-black?logo=discord&style=for-the-badge&logoColor=white">  
-</div>
+ - 🤖 Discord bots for my [Discord](https://discord.gg/Mv6wrrbYxn)
+    - Fun & useful commands
+    - Events to automate recurring tasks
+    - Moderation tools
+ - 🎮 Minecraft server
+    - Latest version available *(1.19.2 at the time of writing)*
+    - Slightly improves survival vanilla gameplay
+    - Server works on the trust established by the community and the respect of the other players.
+    - Whitelist submitted to a vote by the community
+    - Link to my [Discord](https://discord.gg/Mv6wrrbYxn)
+    - Several additions to improve the gameplay without distorting it
+    - [GitBook](https://maxence-1.gitbook.io/) documentation
+  - ⚙️ Shortcuts Apple
+    - [Share your Wi-Fi simply with a QR-code](https://github.com/WaxenSs/Shortcuts_Share-WiFi). One configuration, and enjoy!
+  - 🏠 Home automation
+    - Private VPN allowing me to connect to my personal network anywhere in the world and block all ads & trackers
+    - Homebridge to control my home automation devices
+  - ✨ And much more
 
-## 👨🏻‍💻 My projects  
-- Discord bots for my Discord LUNΛTIC [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mv6wrrbYxn) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-  - Joslin : Little blue bird, born in a toy store, and adopted by WaxenSs.
-    - Add fun commands.
-  - Dust : Robot vacuum with artificial intelligence. I bypassed his AI to also clean the dust from the server.
-    - Manages the automatic moderation.
+## Talking with me
 
-- Minecraft Server related to LUNΛTIC ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-  - Diehard survival.
-  - Latest version available.
-  - Slightly improves vanilla.
-- Shortcuts Apple
-  - Share Wi-Fi : Share your Wi-Fi simply with a QR-code. One configuration, and enjoy !
+- 💬 My Discord: WaxenSs#3226
+- 🐦 My Twitter: [@WaxenSs](https://twitter.com/WaxenSs)
 
-- Home automation ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-  - Virtual Private Network
-  - Homebridge
-  - Pi-hole
-  - Virtual Time Machine
+## My statistics
 
-## 🚀 Github Stats
+### Languages and tools
+![MACOS](https://img.shields.io/badge/macOS-grey?logo=macos&style=for-the-badge&logoColor=white)
+![IOS](https://img.shields.io/badge/ios-grey?logo=ios&style=for-the-badge&logoColor=white)
+![DEBIAN](https://img.shields.io/badge/debian-grey?logo=debian&style=for-the-badge&logoColor=white)
+![LINUX](https://img.shields.io/badge/linux-grey?logo=linux&style=for-the-badge&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/windows-grey?logo=windows&style=for-the-badge&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=WaxenSs&theme=swift&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=WaxenSs&theme=swift&hide_border=true)<br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WaxenSs)  
+![VSCODE](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode&style=for-the-badge&logoColor=white)
+![DISCORD](https://img.shields.io/badge/Discord-grey?logo=discord&style=for-the-badge&logoColor=white)
+![MINECRAFT](https://img.shields.io/badge/minecraft-grey?logo=minecraft&style=for-the-badge&logoColor=white)
+![HOMEBRIDGE](https://img.shields.io/badge/homebridge-grey?logo=homebridge&style=for-the-badge&logoColor=white)
+![PIHOLE](https://img.shields.io/badge/pihole-grey?logo=pihole&style=for-the-badge&logoColor=white)
 
-![Profile views](https://gpvc.arturio.dev/WaxenSs)
+![GIT](https://img.shields.io/badge/git-grey?logo=git&style=for-the-badge&logoColor=white)
+![ANSIBLE](https://img.shields.io/badge/Ansible-grey?logo=ansible&style=for-the-badge&logoColor=white)
+![MONGODB](https://img.shields.io/badge/mongodb-grey?logo=mongodb&style=for-the-badge&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-grey?logo=npm&style=for-the-badge&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/node.js-grey?logo=node.js&style=for-the-badge&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker-grey?logo=docker&style=for-the-badge&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-grey?logo=pm2&style=for-the-badge&logoColor=white)
+
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-grey?logo=javascript&style=for-the-badge&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-grey?logo=python&style=for-the-badge&logoColor=white)
+![MARKDOWN](https://img.shields.io/badge/Markdown-grey?logo=markdown&style=for-the-badge&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-grey?logo=json&style=for-the-badge&logoColor=white)
+
+### GitHub & Stack Overflow
+
+<img alt="WaxenSs GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=WaxenSs&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+<img alt="WaxenSs GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WaxenSs&theme=solarized-light&hide_border=true" width="48%">
+<img alt="WaxenSs GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WaxenSs&theme=green&hide_border=true" width="96.5%">
+<img alt="WaxenSs GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaxenSs&layout=compact&theme=solarized-light">
+<img alt="WaxenSs GitHub Stats" width="48%" src="https://stackoverflow-card.vercel.app/?userID=19279547&theme=solarized-light">
+
+---
+### <div align="center"> 🦊 </div>
