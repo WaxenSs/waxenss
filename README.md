@@ -15,14 +15,14 @@ I use my free time to learn to develop all kinds of things.
     - Fun & useful commands
     - Events to automate recurring tasks
     - Moderation tools
- - 🎮 Minecraft server
-    - Latest version available *(1.19.2 at the time of writing)*
-    - Slightly improves survival vanilla gameplay
-    - Server works on the trust established by the community and the respect of the other players.
-    - Whitelist submitted to a vote by the community
-    - Link to my [Discord](https://discord.gg/Mv6wrrbYxn)
-    - Several additions to improve the gameplay without distorting it
-    - [GitBook](https://maxence-1.gitbook.io/) documentation
+ - 🎮 Minecraft servers *(Latest version at the time of writing)*
+   - *Link to my [Discord](https://discord.gg/Mv6wrrbYxn)*
+      - Vanilla server
+        - Server works on the trust established by the community and the respect of the other players.
+        - Whitelist submitted to a vote by the community
+        - Several additions to improve the vanilla gameplay without distorting it
+        - [GitBook](https://maxence-1.gitbook.io/) documentation
+      - OneBlock server *(in progress)*
   - ⚙️ Shortcuts Apple
     - [Share your Wi-Fi simply with a QR-code](https://github.com/WaxenSs/Shortcuts_Share-WiFi). One configuration, and enjoy!
   - 🏠 Home automation
@@ -32,8 +32,8 @@ I use my free time to learn to develop all kinds of things.
 
 ## Talking with me
 
-- 💬 My Discord: WaxenSs#3226
-- 🐦 My Twitter: [@WaxenSs](https://twitter.com/WaxenSs)
+- 💬 Discord: WaxenSs#3226
+- 🐦 Twitter: [@WaxenSs](https://twitter.com/WaxenSs)
 
 ## My statistics
 
@@ -62,14 +62,5 @@ I use my free time to learn to develop all kinds of things.
 ![PYTHON](https://img.shields.io/badge/Python-grey?logo=python&style=for-the-badge&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-grey?logo=markdown&style=for-the-badge&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-grey?logo=json&style=for-the-badge&logoColor=white)
-
-### GitHub & Stack Overflow
-
-<img alt="WaxenSs GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=WaxenSs&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-<img alt="WaxenSs GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WaxenSs&theme=solarized-light&hide_border=true" width="48%">
-<img alt="WaxenSs GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WaxenSs&theme=green&hide_border=true" width="96.5%">
-<img alt="WaxenSs GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaxenSs&layout=compact&theme=solarized-light">
-<img alt="WaxenSs GitHub Stats" width="48%" src="https://stackoverflow-card.vercel.app/?userID=19279547&theme=solarized-light">
-
 ---
 ### <div align="center"> 🦊 </div>
