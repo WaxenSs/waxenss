@@ -21,7 +21,7 @@ I use my free time to learn to develop all kinds of things.
         - Server works on the trust established by the community and the respect of the other players.
         - Whitelist submitted to a vote by the community
         - Several additions to improve the vanilla gameplay without distorting it
-        - [GitBook](https://maxence-1.gitbook.io/) documentation
+        - [GitBook](https://waxenss.gitbook.io/mclunatic/) documentation
       - OneBlock server *(in progress)*
   - ⚙️ Shortcuts Apple
     - [Share your Wi-Fi simply with a QR-code](https://github.com/WaxenSs/Shortcuts_Share-WiFi). One configuration, and enjoy!
@@ -32,7 +32,7 @@ I use my free time to learn to develop all kinds of things.
 
 ## Talking with me
 
-- 💬 Discord: WaxenSs#3226
+- 💬 Discord: waxenss *(previously WaxenSs#3226)*
 - 🐦 Twitter: [@WaxenSs](https://twitter.com/WaxenSs)
 
 ## My statistics
