@@ -17,7 +17,7 @@ I use my free time to learn to develop all kinds of things.
     - Moderation tools
  - 🎮 Minecraft servers *(Latest version at the time of writing)*
    - *Link to my [Discord](https://discord.gg/Mv6wrrbYxn)*
-      - Vanilla server
+      - Vanilla server [![wakatime](https://wakatime.com/badge/user/01f283d3-c31c-4d5f-8b08-b85e757ac50f/project/a15528e8-2406-412f-a135-1ec98b0f027a.svg)](https://wakatime.com/badge/user/01f283d3-c31c-4d5f-8b08-b85e757ac50f/project/a15528e8-2406-412f-a135-1ec98b0f027a)
         - Server works on the trust established by the community and the respect of the other players.
         - Whitelist submitted to a vote by the community
         - Several additions to improve the vanilla gameplay without distorting it
