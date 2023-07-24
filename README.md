@@ -45,10 +45,11 @@ I use my free time to learn to develop all kinds of things.
 ![WINDOWS](https://img.shields.io/badge/windows-grey?logo=windows&style=for-the-badge&logoColor=white)
 
 ![VSCODE](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode&style=for-the-badge&logoColor=white)
+![XCODE](https://img.shields.io/badge/XCode-grey?logo=xcode&style=for-the-badge&logoColor=white)
 ![DISCORD](https://img.shields.io/badge/Discord-grey?logo=discord&style=for-the-badge&logoColor=white)
 ![MINECRAFT](https://img.shields.io/badge/minecraft-grey?logo=minecraft&style=for-the-badge&logoColor=white)
 ![HOMEBRIDGE](https://img.shields.io/badge/homebridge-grey?logo=homebridge&style=for-the-badge&logoColor=white)
-![PIHOLE](https://img.shields.io/badge/pihole-grey?logo=pihole&style=for-the-badge&logoColor=white)
+![ADGUARD](https://img.shields.io/badge/adguard-grey?logo=adguard&style=for-the-badge&logoColor=white)
 
 ![GIT](https://img.shields.io/badge/git-grey?logo=git&style=for-the-badge&logoColor=white)
 ![ANSIBLE](https://img.shields.io/badge/Ansible-grey?logo=ansible&style=for-the-badge&logoColor=white)
@@ -59,6 +60,8 @@ I use my free time to learn to develop all kinds of things.
 ![PM2](https://img.shields.io/badge/PM2-grey?logo=pm2&style=for-the-badge&logoColor=white)
 
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-grey?logo=javascript&style=for-the-badge&logoColor=white)
+![SWIFT](https://img.shields.io/badge/Swift-grey?logo=swift&style=for-the-badge&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-grey?logo=yaml&style=for-the-badge&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-grey?logo=python&style=for-the-badge&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-grey?logo=markdown&style=for-the-badge&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-grey?logo=json&style=for-the-badge&logoColor=white)
